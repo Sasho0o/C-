@@ -1,0 +1,13 @@
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.exe
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.deps.json
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.json
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.runtimeconfig.dev.json
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\bin\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csprojAssemblyReference.cache
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfoInputs.cache
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.AssemblyInfo.cs
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.csproj.CoreCompileInputs.cache
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.dll
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.pdb
+C:\Users\sa6ot\Desktop\Brickwork\Brickwork\obj\Debug\netcoreapp3.1\Brickwork.genruntimeconfig.cache
